@@ -1,4 +1,7 @@
-# Developing AI Agent with PEAS Description
+## EX NO:01
+## DATE:04/04/22
+
+# <p align="center"> Developing AI Agent with PEAS Description</p>
 
 ## AIM
 
@@ -29,6 +32,11 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
+```
+Student name : Sriharish
+Reg.no : 212220230047
+```
+
 ```python
 import random
 
